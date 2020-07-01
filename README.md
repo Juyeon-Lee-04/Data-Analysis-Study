@@ -1,12 +1,14 @@
-### Machine Learning with Python A Practical Introduction
+## Machine Learning with Python A Practical Introduction
 This is my repository where I will upload my practice codes during taking edx course 'Machine Learning with Python: A Practical Introduction(IBM-ML0101EN)'. 
 This course provides code lab for practicing and reviewing in each module, so after studying each module, I will upload my own application with different dataset.  
 I might use data from Kaggle or Korean public big data portal. I will write the data source on the top of each code file.
 
 course info: https://courses.edx.org/courses/course-v1:IBM+ML0101EN+1T2020/course/
 
-Git 두개의 로컬저장소 하나의 원격저장소와 연동하기 
 
+
+## Git 두개의 로컬저장소 하나의 원격저장소와 연동하기 
+(출처 https://wayhome25.github.io/git/2017/04/09/git-06-remote-repository/)
 
 원격 저장소 만들기
 원격 저장소의 별명을 설정할 수 있다. (저장소 주소가 길기 때문에)
